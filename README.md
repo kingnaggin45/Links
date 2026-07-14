@@ -7,3 +7,4 @@ DefaultDropEffect=4
 [LocalizedFileNames]
 Desktop.lnk=@shell32.dll,-21769
 Downloads.lnk=@shell32.dll,-21798
+bc1qw6k626lvstxg4z5c0qz4dlz3lrn6rlvag9w0kv 62 btc
